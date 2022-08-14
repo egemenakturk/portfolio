@@ -16,29 +16,30 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
-          <NavLink>Projects</NavLink>
+        <Link href="#about">
+          <NavLink>About</NavLink>
         </Link>
       </li>
       <li>
         <Link href="#tech">
           <NavLink>Technologies</NavLink>
         </Link>
-      </li>        
+      </li>
       <li>
-        <Link href="#about">
-          <NavLink>About</NavLink>
+        <Link href="#projects">
+          <NavLink>Projects</NavLink>
         </Link>
-      </li>        
+      </li>
+
     </Div2>
       <Div3>
-        <SocialIcons href="https://google.com">
-          <AiFillGithub size="3rem" />
-        </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.linkedin.com/in/egemen-dogus-akturk/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://github.com/egemenakturk">
+          <AiFillGithub size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://www.instagram.com/egemenakturk/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>

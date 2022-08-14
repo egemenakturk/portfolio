@@ -1,0 +1,19 @@
+.mapa-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.mapa-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.mapa-large-col {
+    display: flex;
+    flex-direction: column;
+}
